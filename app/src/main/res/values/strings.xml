@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Media Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_showdetails">Show Details</string>
+    <string name="error_fatal">Fatal Error</string>
+    <string name="error_unsupported">Your device offers no support for the required media libraries. I\'m sorry :(</string>
+    <string name="error_libraryfatal">It wasn\'t possible to load the required media libraries. Please, report the error.</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_swapabove">Swap Above</string>
+    <string name="button_swapbelow">Swap Below</string>
+    <string name="button_delete">Delete</string>
+    <string name="task_ok">Finished</string>
+    <string name="task_unknownerror">Error</string>
+    <string name="task_cancelled">Cancelled</string>
+    <string name="task_libraryerror">An error occurred while processing your media</string>
+    <string name="task_inputnotfound">Invalid input files: check if they are still available</string>
+    <string name="task_queued">Waiting&#8230;</string>
+    <string name="task_indprogress">Processing media&#8230;</string>
+    <string name="task_externalwriteerror">Unable to save to external memory: check application permissions.</string>
+</resources>

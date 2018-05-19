@@ -1,0 +1,3 @@
+<resources>
+	<string name="task_progress">%3.2f%% (%d out of %d)</string>
+</resources>

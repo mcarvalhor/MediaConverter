@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="action_settings">Definições</string>
+	<string name="button_showdetails">Mostre-me Detalhes</string>
+	<string name="error_fatal">Erro Fatal</string>
+	<string name="error_unsupported">Seu dispositivo não suporta as bibliotecas necessárias para realizar operações em mídias. Lamento :(</string>
+	<string name="error_libraryfatal">Não foi possível carregar as bibliotecas necessárias para realizar operações em mídias. Por favor, reporte o erro.</string>
+	<string name="button_exit">Sair</string>
+	<string name="button_swapabove">Troque Acima</string>
+	<string name="button_swapbelow">Troque Abaixo</string>
+	<string name="button_delete">Remova</string>
+	<string name="task_progress">%3.2f%% (%d de %d)</string>
+	<string name="task_ok">Terminou com sucesso</string>
+	<string name="task_unknownerror">Erro</string>
+	<string name="task_cancelled">Interrompido</string>
+	<string name="task_externalwriteerror">Não foi possível salvar na memória externa: verifique as permissões do aplicativo.</string>
+	<string name="task_libraryerror">Ocorreu um erro de processamento de mídia</string>
+	<string name="task_inputnotfound">Arquivos de entrada inválidos: verifique se eles ainda estão disponíveis</string>
+	<string name="task_queued">Em espera&#8230;</string>
+	<string name="task_indprogress">Processando mídia&#8230;</string>
+</resources>
